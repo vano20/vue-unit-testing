@@ -1,4 +1,7 @@
-# my-test
+# vue-unit-testing
+
+## Description
+Project for learning purpose on unit testing on vue.js using `@vue/test-utils`
 
 ## Project setup
 ```
